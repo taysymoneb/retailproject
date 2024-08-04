@@ -1,0 +1,134 @@
+OperationID,EmployeeID,OperationDate,OperationDescription,TotalCost
+1,6,1/1/2022,hourly wages,82334
+2,2,1/1/2022,insurance premium,521.55
+3,6,1/1/2022,food supply,28003.94
+4,2,1/1/2022,monthly rent,3152.47
+5,6,1/1/2022,utility bills,1336.74
+6,2,1/1/2022,maintenance and repairs,1240.7
+7,6,1/15/2022,hourly wages,82334
+8,6,1/29/2022,hourly wages,82334
+9,6,2/1/2022,marketing and advertising,14846.9
+10,6,2/1/2022,monthly rent,3152.47
+11,2,2/1/2022,food supply,31591.52
+12,2,2/1/2022,insurance premium,521.55
+13,6,2/1/2022,utility bills,1329.68
+14,2,2/12/2022,hourly wages,82334
+15,2,2/26/2022,hourly wages,82334
+16,6,3/1/2022,insurance premium,521.55
+17,6,3/1/2022,utility bills,1160.47
+18,2,3/1/2022,license and permit fees,132.04
+19,2,3/1/2022,monthly rent,3152.47
+20,2,3/1/2022,food supply,47379.25
+21,6,3/12/2022,hourly wages,82334
+22,6,3/26/2022,hourly wages,82334
+23,2,4/1/2022,food supply,30016.39
+24,6,4/1/2022,maintenance and repairs,845.22
+25,2,4/1/2022,insurance premium,521.55
+26,6,4/1/2022,utility bills,1304.82
+27,6,4/1/2022,monthly rent,3152.47
+28,2,4/9/2022,hourly wages,82334
+29,2,4/23/2022,hourly wages,82334
+30,2,5/1/2022,food supply,29233.84
+31,2,5/1/2022,monthly rent,3152.47
+32,2,5/1/2022,insurance premium,521.55
+33,6,5/1/2022,utility bills,1045.47
+34,2,5/7/2022,hourly wages,82334
+35,6,5/21/2022,hourly wages,82334
+36,2,6/1/2022,license and permit fees,164.05
+37,2,6/1/2022,marketing and advertising,5652.09
+38,2,6/1/2022,utility bills,1326.02
+39,2,6/1/2022,insurance premium,521.55
+40,6,6/1/2022,food supply,22872.56
+41,6,6/1/2022,monthly rent,3152.47
+42,6,6/4/2022,hourly wages,82334
+43,6,6/18/2022,hourly wages,82334
+44,2,6/30/2022,maintenance and repairs,627.86
+45,2,7/1/2022,insurance premium,521.55
+46,2,7/1/2022,food supply,23343.44
+47,2,7/1/2022,monthly rent,3152.47
+48,2,7/1/2022,utility bills,1407.76
+49,2,7/2/2022,hourly wages,82334
+50,6,7/16/2022,hourly wages,82334
+51,6,7/30/2022,hourly wages,82334
+52,6,8/1/2022,monthly rent,3152.47
+53,6,8/1/2022,food supply,25278.08
+54,2,8/1/2022,insurance premium,521.55
+55,6,8/1/2022,utility bills,1137.25
+56,2,8/13/2022,hourly wages,82334
+57,2,8/27/2022,hourly wages,82334
+58,6,9/1/2022,monthly rent,3152.47
+59,6,9/1/2022,marketing and advertising,7723.58
+60,2,9/1/2022,food supply,29023.48
+61,2,9/1/2022,insurance premium,521.55
+62,6,9/1/2022,utility bills,1085.28
+63,6,9/1/2022,license and permit fees,168.06
+64,6,9/10/2022,hourly wages,82334
+65,2,9/24/2022,hourly wages,82334
+66,2,9/28/2022,maintenance and repairs,415
+67,2,10/1/2022,monthly rent,3152.47
+68,2,10/1/2022,food supply,29780.44
+69,6,10/1/2022,insurance premium,521.55
+70,2,10/1/2022,utility bills,1153.74
+71,2,10/8/2022,hourly wages,82334
+72,2,10/22/2022,hourly wages,82334
+73,2,11/1/2022,insurance premium,521.55
+74,6,11/1/2022,utility bills,1327.85
+75,6,11/1/2022,food supply,43512.5
+76,6,11/1/2022,monthly rent,3152.47
+77,2,11/5/2022,hourly wages,82334
+78,2,11/19/2022,hourly wages,82334
+79,6,12/1/2022,insurance premium,521.55
+80,6,12/1/2022,utility bills,1283.52
+81,2,12/1/2022,marketing and advertising,13042.05
+82,6,12/1/2022,license and permit fees,131.45
+83,2,12/1/2022,monthly rent,3152.47
+84,2,12/1/2022,food supply,45207.8
+85,6,12/3/2022,hourly wages,82334
+86,2,12/17/2022,hourly wages,82334
+87,6,12/26/2022,marketing and advertising,10291.33
+88,2,12/27/2022,maintenance and repairs,521.55
+89,6,12/31/2022,hourly wages,82334
+90,6,1/3/2022,other,4038.06
+91,6,1/12/2022,other,5017.52
+92,11,1/31/2022,monthly online operations,36859.95
+93,6,2/4/2022,other,5366.43
+94,6,2/19/2022,other,3606.74
+95,6,2/23/2022,other,4479.57
+96,11,2/28/2022,monthly online operations,41125.11
+97,11,3/13/2022,other,2802.04
+98,11,3/31/2022,monthly online operations,38958.18
+99,11,4/4/2022,other,5558.34
+100,6,4/9/2022,other,5586.69
+101,11,4/30/2022,monthly online operations,38759.78
+102,11,5/16/2022,other,3271.44
+103,11,5/31/2022,monthly online operations,38605.25
+104,2,6/24/2022,other,4152.37
+105,11,6/30/2022,monthly online operations,31609.79
+106,6,7/19/2022,other,3663.36
+107,11,7/31/2022,monthly online operations,38720.07
+108,11,8/4/2022,other,4545.75
+109,11,8/31/2022,monthly online operations,28531.66
+110,6,9/9/2022,other,4485.18
+111,11,9/30/2022,monthly online operations,30912.22
+112,6,10/14/2022,other,4215.27
+113,6,10/16/2022,other,3614.09
+114,11,10/31/2022,monthly online operations,33217.5
+115,11,11/11/2022,other,4239.48
+116,11,11/19/2022,other,4297.54
+117,11,11/30/2022,monthly online operations,34138.2
+118,11,12/12/2022,other,2530.32
+119,2,12/20/2022,other,3722.98
+120,11,12/31/2022,monthly online operations,39755.36
+121,11,1/1/2022,online food supply,46599.59
+122,11,2/1/2022,online food supply,52358.72
+123,11,3/1/2022,online food supply,90153.4
+124,11,4/1/2022,online food supply,46632.49
+125,11,5/1/2022,online food supply,46992.44
+126,11,6/1/2022,online food supply,37705.12
+127,11,7/1/2022,online food supply,37385.29
+128,11,8/1/2022,online food supply,37661.23
+129,11,9/1/2022,online food supply,50142.4
+130,11,10/1/2022,online food supply,46746.49
+131,11,11/1/2022,online food supply,72678.86
+132,11,12/1/2022,online food supply,73084.17
+133,6,12/30/2022,Investment and contingency Fund,2876451.48

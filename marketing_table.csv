@@ -1,0 +1,6 @@
+CampaignID,CampaignName,StartDate,EndDate,Budget,TargetAudience,PrimaryChannel
+1,Mardi Gras Special,2/1/2022,3/5/2022,15000,Tourists and locals,"Social Media, Television"
+2,Summer Sizzler,6/1/2022,8/31/2022,7000,Families and young adults,Email Campaign
+3,Fall Festivities,9/1/2022,11/30/2022,10000,Students and professionals,Online Ads
+4,Holiday Cheer,12/1/2022,12/31/2022,18000,Everyone,Television
+5,New Year Kickoff,12/26/2022,1/15/2023,11000,Everyone,Social Media

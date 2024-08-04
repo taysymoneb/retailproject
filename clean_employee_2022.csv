@@ -1,0 +1,20 @@
+EmployeeID,firstName,lastName,Age,Position,HireDate
+1,Brandy,Abshire,24,Marketing Director,2020-04-13
+2,Bryan,Lafitte,45,Manager,2016-01-03
+3,Pierre,Ponz,25,Pastry Chef,2023-05-03
+4,Ebony,Lafyette,19,Sales Associate,2022-11-26
+5,Emory,Williams,39,Pastry Chef,2016-10-22
+6,Ella,Alef,47,Manager,2017-12-11
+7,Leah,Chase,60,Pastry Chef,2021-10-20
+8,Adam,Lagasse,35,Sales Associate,2019-08-21
+9,DeWhite,Pemonte,30,Sales Associate,2015-01-20
+10,Anne,Rause,51,Sales Associate,2017-01-18
+11,Micheal,Hugh,35,Director of Online Operations,2019-03-18
+12,Amy,Shuck,42,Online Warehouse,2019-09-19
+13,Quan,Welch,30,Online Warehouse,2021-02-20
+14,Jose,Gonzalez Pachon,28,Online Warehouse,2019-11-02
+15,Brielle,Ramirez,26,Online Warehouse,2020-04-15
+16,Camilla,Freeman,31,Online Warehouse,2020-11-05
+17,Jazmine,Crouch,23,Online Warehouse,2022-06-19
+18,Ryan,Housley,34,Online Warehouse,2021-09-16
+0,online,online,0,online,2015-01-01
