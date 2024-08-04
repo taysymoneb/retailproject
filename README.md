@@ -1,1 +1,2 @@
 # retailproject
+This repo contains all of the files used to conduct a detailed analysis of sales and operation events during one year of business for a fictional retail business. Python/jupyter notebook was used to import and clean the original data files, PostgresSQL was used to build a database and create tables for each of the provided csv files. Then, SQL was used to query against the data to answer key business questions. A dashboard visualization of the data was made using tableau. 
